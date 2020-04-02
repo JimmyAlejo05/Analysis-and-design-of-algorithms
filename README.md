@@ -5,10 +5,16 @@
 ### Life would be so much easier if we could take a look at the source code.
 
 ### about me
-- student from Universidad San Buenaventura ![N|Solid](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
+- student from Universidad San Buenaventura 
+
+![N|Solid](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
+
 - ultimate player
+
  ![N|Solid](https://i.pinimg.com/564x/97/d9/6f/97d96fc98905518dde1525e3d5227f7a.jpg)
+ 
 - junior programmer
+
   ![N|Solid](https://cdn.foliovision.com/images/2019/01/junior-programmer.png)
   
 
