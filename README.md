@@ -19,9 +19,10 @@
   
 
 
-### marathon exercises
+### MARATHON EXERCISES 
 
 [URI][Plmt] exercises solved in java
+![PRO](https://1.bp.blogspot.com/-0KN9gvAJ_bU/VwGPkFtEP1I/AAAAAAAAAMc/xBPIvDbfgZgOigUHekupoGq9SdEuhZmuA/s1600/nic3b1o-con-pc-gif1.gif)
 
 | name  | README |
 | ------ | ------ |
@@ -60,6 +61,7 @@ It is about the use of data structure in a graphic environment for ultimate matc
    [PlLu]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2542>
    [Pltm]:<https://github.com/JimmyAlejo05/Time-s-pull>
    [Plmt]:<https://github.com/JimmyAlejo05/URI>
+   
   ### thanks for reading all my information ❤
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
