@@ -45,7 +45,7 @@ It is about the use of data structure in a graphic environment for ultimate matc
 
 -list: it is used for the squad of the players of each ultimate team.
 
--Stack: used to add the male and female teams of the universities.
+-Stack: it is used to add the male and female teams of the universities.
 
 -Queue: it is used for team confrontations.
 
